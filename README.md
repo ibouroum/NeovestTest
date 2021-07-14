@@ -17,12 +17,12 @@ npm start
 # Pictures
 * Home
 ![Home](src/images/home0.png)
-![Home](src/images/home.png)
+![Home1](src/images/home.png)
 * Login
-![Gestion Error](src/images/required.png)
-![Gestion Error](src/images/gestion_Erreur.png)
-![Gestion Error](src/images/gestion_Erreur_Back.png)
-![Gestion Error](src/images/notmatch.png)
-![Gestion Error](src/images/already_exist.png)
+![Gestion Error](/src/images/required.png)
+![Gestion Error1](/src/images/gestion_Erreur.png)
+![Gestion Error2](/src/images/gestion_Erreur_Back.png)
+![Gestion Error3](/src/images/notmatch.png)
+![Gestion Error4](/src/images/already_exist.png)
 # Authors
 ISMAIL BOUROUMMANA
